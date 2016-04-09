@@ -1,35 +1,27 @@
 {
-  "name": "angular-starter-app",
+  "name": "starter",
   "version": "0.0.1",
-  "description": "a boilerplate angular app alongside a nodejs server",
-  "main": "index.js",
+  "description": "a boilerplate angular app alongside a node.js server",
+  "main": "app.js",
   "dependencies": {
-    "angular": "^1.5.3",
     "angular-animate": "^1.5.3",
+    "angular": "^1.5.3",
     "angular-aria": "^1.5.3",
     "angular-material": "^1.0.7",
     "angular-messages": "^1.5.3",
+    "express": "^4.13.4"
   },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "keywords": [],
+  "author": "rebeldottie",
+  "license": "GPL-3.0",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/rebeldottie/angular-starter-app.git"
   },
-  "keywords": [
-    "angular",
-    "node",
-    "starter",
-    "boilerplate",
-    "server",
-    "javascript",
-    "html5",
-    "templates"
-  ],
-  "author": "rebeldottie",
-  "license": "GPL-3.0",
   "bugs": {
     "url": "https://github.com/rebeldottie/angular-starter-app/issues"
   },
